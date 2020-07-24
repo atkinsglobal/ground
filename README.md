@@ -3,7 +3,8 @@ Data and information store created as part of discovery stimulus for open data a
 
 ## Land Contamination Data Inventory
 Data inventory for data used within land contamination risk assessment as per [Land Contamination: Risk Management](https://www.gov.uk/guidance/land-contamination-how-to-manage-the-risks) guidance.
-The data inventory was completed using professional knowoledge from experts who regularly complete risk assessments. It is hoped that over time, this data inventory can grow due to open access.  
+The data inventory was completed using professional knowledge from experts who regularly complete risk assessments. It is hoped that over time, this data inventory can grow due to open access.
+The community can contribute new data sources, update existing information and/or submit issues to this repository.  
 ### Risk Assessment Process
 The assessment of land contamination is typically completed in three stages:
 * Tier 1: Preliminary Risk Assessment (PRA) typically involves a desk based review of information and a site walkover;
