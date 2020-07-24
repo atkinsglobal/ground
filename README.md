@@ -10,6 +10,7 @@ The assessment of land contamination is typically completed in three stages:
 * Tier 1: Preliminary Risk Assessment (PRA) typically involves a desk based review of information and a site walkover;
 * Tier 2: Generic Quantitative Risk Assessment (GQRA) typically involves site investigation, monitoring and comparison of measured concentrations of chemicals within soil, soil-derived leachate and groundwater to Generic Assessment Criteria (GAC);
 * Tier 3: Detailed Quantitative Risk Assessment (DQRA) which involves modelling of fate and transport of contaminants to receptors and comparison of measured concentrations of chemicals within soil, soil-derived leachate and groundwater to Site-specific Assessment Criteria (SSAC).  
+
 Sources, pathways and receptors are presented in a conceptual model for a site at the end of each stage of the risk assessment. If a risk is considered to be unacceptable, a further stage of the assessment is undertaken, potentially leading to an 'options appraisal' and 'remediation' of the site.
 ### Importance Ranking
 Professional judgement was used to initially prioritise the importance of each dataset. It is hoped, that more formal prioritisation could be developed over time.
