@@ -17,7 +17,7 @@ assessment is undertaken, potentially leading to an options appraisal and remedi
 Professional judgement was used to initially prioritise the importance of each dataset. It is hoped, that more formal prioritisation could be developed over time.
 Statistical analysis could be used to better understand relationships and provide the basis for prioritisation of the data. At present, only two categories of importance ranking are available:
 * 1 - very important
-* 2 - very important
+* 2 - important
 
 ### Limitations
 * Flood risk data are excluded.
