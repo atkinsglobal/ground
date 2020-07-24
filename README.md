@@ -2,7 +2,7 @@
 Data and information store created as part of discovery stimulus for open data and analytics in ground engineering, contaminated land and hydrogeology.
 
 ## Land Contamination Data Inventory
-Data inventory for data used within land contamination risk assessment as per [Land Contamination: Risk Management](https://www.gov.uk/guidance/land-contamination-how-to-manage-the-risks) guidance.
+Data inventory for data used within land contamination risk assessment as per the [Land Contamination: Risk Management](https://www.gov.uk/guidance/land-contamination-how-to-manage-the-risks) guidance.
 The data inventory was completed using professional knowledge from experts who regularly complete risk assessments. It is hoped that over time, this data inventory can grow due to open access.
 The community can contribute new data sources, update existing information and/or submit issues to this repository.  
 ### Risk Assessment Process
